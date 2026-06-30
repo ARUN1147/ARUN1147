@@ -22,13 +22,6 @@ Database: MongoDB, MySQL
 
 Cloud & Tools- AWS EC2- Git- GitHub- Linux (Ubuntu)- Postman- VS Code
 
-## 📌 Featured Projects
-
-🍬 SweetHub (MERN)
-🏨 Hotel Booking System
-🌴 Resort Booking Website
-📦 Product Management System
-
 ## 🎯 Goals
 
 - Become an AI/ML Engineer
