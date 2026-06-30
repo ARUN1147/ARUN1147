@@ -14,11 +14,11 @@ I'm a passionate software developer focused on building scalable web application
 
 ## 🛠 Tech Stack
 
-Frontend- React.js- JavaScript- HTML5- CSS3- Tailwind CSS
+Frontend- React.js, JavaScript, HTML5, CSS3, Tailwind CSS
 
-Backend- Node.js- Express.js
+Backend- Node.js, Express.js
 
-Database- MongoDB- MySQL
+Database- MongoDB, MySQL
 
 Cloud & Tools- AWS EC2- Git- GitHub- Linux (Ubuntu)- Postman- VS Code
 
